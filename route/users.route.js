@@ -2,7 +2,7 @@ var express = require('express');
 
 var router = express.Router();
 
-var controller = require('./controller/users.controller')
+var controller = require('../controller/users.controller')
 
 router.get('/', controller.index
 	)
