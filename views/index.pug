@@ -1,2 +1,6 @@
-h1 Welcome to my page #{name}
-a(href="/users") User List
+extends ./layout/common
+
+block content
+	h1(style="text-align:center") Welcome to my page #{name}
+	.container.d-flex
+		img(src="/img/1.jpg", width ="200px", height="200px", positon="relative", left="100px")

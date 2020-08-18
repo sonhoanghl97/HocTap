@@ -2,7 +2,9 @@
   "users": [
     {
       "name": "Hoàng Thanh Sơn",
-      "id": "Agy3-wS5z"
+      "id": "Agy3-wS5z",
+      "email": "sonhoang.hl97@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e"
     },
     {
       "name": "Vũ Tuấn Anh",
@@ -17,32 +19,24 @@
       "id": "pmuqPOo-3"
     },
     {
-      "name": "Hoàng Thị Hải",
-      "id": "Wxwd2bDvV"
+      "name": "Hoàng Thanh Sơn",
+      "phone": "0386809657",
+      "id": "c1ufiIKgC"
     },
     {
-      "name": "Hoàng Thị Hải",
-      "id": "QFeVzpfzE"
+      "name": "Hoàng Minh Tiến",
+      "phone": "09825591197",
+      "id": "EEEwC9Jcl"
     },
     {
-      "name": "a",
-      "id": "VT5QISVzG"
+      "name": "Hoàng Thị Hồng",
+      "phone": "0387862256",
+      "id": "862i-4BgD"
     },
     {
-      "name": "a",
-      "id": "a51R_AMK6"
-    },
-    {
-      "name": "a",
-      "id": "ujLD9W6T9"
-    },
-    {
-      "name": "a",
-      "id": "ICV9SNkYg"
-    },
-    {
-      "name": "a",
-      "id": "6y4NqfKBW"
+      "name": "Hoàng Tiến Dũng",
+      "phone": "0388505128",
+      "id": "5q_iqtlLK"
     }
   ]
 }

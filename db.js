@@ -8,3 +8,4 @@ db.defaults({ users: [] })
 
 
  module.exports = db;
+
